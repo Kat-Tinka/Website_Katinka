@@ -1,0 +1,19 @@
+
+body{background-color: black;}
+main div{
+    height: 40px;
+    width: 100%;
+    background-color: grey
+;
+}
+
+main div p{
+    color:brown
+}
+
+.blue {color: blue;}
+
+.orange{background-color: orange;}
+.green {background-color: green;}
+
+main div.orange
